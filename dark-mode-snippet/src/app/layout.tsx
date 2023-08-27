@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Dark mode com Next.js e TailwindCSS",
   description:
-    "I simply app to showcase dark mode with Next.js and TailwindCSS",
+    "Demonstração simples de como implementar um seletor de temas (modo escuro e modo claro) com Next.js e Tailwind CSS.",
 };
 
 export default function RootLayout({
